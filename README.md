@@ -28,4 +28,8 @@ A fun little bare bones recreation of Flappy Bird in Java I did back in 2020. Th
 - Smooth 60 Hz refresh rate
 - Multiple input controls (spacebar, touch pad / mouse, up arrow key, and or w key)
 
+<div align="center">
 ##  Game Demo:
+https://user-images.githubusercontent.com/63657230/226535486-9a626b25-cccd-4a0e-9295-50fceaf194bf.mp4
+</div>
+
