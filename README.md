@@ -1,7 +1,11 @@
+<div align="center">
+
 # Flappy-Bird-Java-Edition
+
 A fun little bare bones recreation of Flappy Bird in Java I did back in 2020. The application's screen dimensions simulate that of an actual mobile device to mimic the original.
 
-
+<img src="https://github.com/jcook03266/Flappy-Bird-Java-Edition/blob/main/Resources/flappybirdJavaEditionHero.png" width="800">
+</div>
 
 ## Instructions on how to install the game:
 1.) Download the FlappyBird.jar file
