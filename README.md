@@ -15,7 +15,9 @@ I made this project a few years back from scratch without any third-party librar
 1.) [Download the FlappyBird.jar file](https://github.com/jcook03266/Flappy-Bird-Java-Edition/blob/main/FlappyBirdJavaEdition.jar)
 
 2.) Unpack the downloaded file, or move it to a directory that you can easily access
+
 3.) Double tap the jar file to run the application
+
 4.) Done!
 
 ## Instructions on how to play the game:
